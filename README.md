@@ -1,56 +1,17 @@
-# CSC-4330-Project
-This is a Group Project for Dr. Nash's CSC 4330 Class
+# Tutor Vision
 
+You have to download node.js, so that you can launch the projects and use a command called npm: you can find the download link here: https://nodejs.org/en/download/
 
-### Abdel, Connor, John, Matthew, Parimal, Ruchit
+Then either by directly downloading the code or using github desktop, you pull the repository onto your computer
 
+You then download visual studio code and on the left bar there's this tab called extensions, download npm from there, you can find visual studio code here: https://code.visualstudio.com/download
 
-<br>
-Tutor marketplace for college students! (This app is a project for CSC4330.)
+Once you have visual studio code and npm downloaded, you then want to open the "Tutor-Vision" folder in vs code, the "Tutor-Vision" folder is in the repository that you pulled from github
 
-#### 🖥 DEMO: /coming soon/
-<br>
+You should now have all the code available on visual studio code, you then want to open two terminals within vs code and cd into the node-rest-api folder in one of the terminals and then cd into the react-app-design folder in the second one
 
-<p float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="drawing" height="100"/>
-</p>
+Starting with the node-rest-api one you type npm install and then npm start, you then type npm install react-scripts --save into the react-app-design one and then npm start into it as well, so that the project is hosted using expo
 
-<br>
+To view the project on your phone you have to download expo go from the app store and then scan the QR code that is in vs code using the app
 
-# 🚀 Quick Start
-
-Here how you can easily build and run our React-Native project!
-
-`cd react-app-design`
-Make sure you are inside the folder with teh *package.json* file.
-
-`npm install`
-Install all of the dependencies needed on your local machine.
-
-`npm start`
-Information in terminal will show you how to view the app on Expo on mobile.
-
-
-
-<br>
-
-# 📖 Learn about our Stack
-
-npm: https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
-
-React-Native: https://reactnative.dev/
-
-...
-
-
-
-<br>
-
-# 🧑🏼‍💻👩🏾‍💻 Current Progress
-
-<img src="https://user-images.githubusercontent.com/67341791/196007289-fc59910f-f4ab-4e6b-8b10-6affee21306e.jpeg"
-alt="current-progress" height="400"/>
-<ul>
-  <li>Hello World ✅</li>
-  <li>...</li>
-</ul>
+Everything should be set up now and you should be able to start coding and see the changes in real time. You need to repeat steps 5 and 6 every time you want to launch the project
