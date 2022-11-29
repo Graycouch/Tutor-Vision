@@ -4,6 +4,7 @@
 https://user-images.githubusercontent.com/65471490/204408048-5c920ece-0fb1-4aef-be4a-7a20610794ab.mp4
 
 
+
 1. You have to download node.js, so that you can launch the projects and use a command called npm: you can find the download link here: https://nodejs.org/en/download/
 
 2. Then either by directly downloading the code or using github desktop, you pull the repository onto your computer
