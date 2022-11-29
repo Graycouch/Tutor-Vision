@@ -14,4 +14,4 @@
 
 7. To view the project on your phone you have to download expo go from the app store and then scan the QR code that is in vs code using the app
 
-8 .Everything should be set up now and you should be able to start coding and see the changes in real time. You need to repeat steps 5 and 6 every time you want to launch the project
+8. Everything should be set up now and you should be able to start coding and see the changes in real time. You need to repeat steps 5 and 6 every time you want to launch the project
